@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "About",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FullName": {
+      "type": "string"
+    },
+    "CurrentLocation": {
+      "type": "string"
+    },
+    "Interests": {
+      "type": "json"
+    },
+    "Skills": {
+      "type": "json"
+    },
+    "Education": {
+      "type": "string"
+    }
+  }
+}
