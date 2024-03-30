@@ -79,7 +79,7 @@ module.exports = ({ env }) => {
         ),
       },
       useNullAsDefault: true,
-    },
+    }
   };
 
   return {
