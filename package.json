@@ -30,8 +30,9 @@
     "uuid": "e33f7528-7af5-48c5-9c34-180f9f40ef62"
   },
   "engines": {
-    "node": ">=18.0.0 <=20.x.x",
-    "npm": ">=6.0.0"
+    "node": "20.9.x",
+    "yarn": "4.2.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "yarn@4.2.2"
 }

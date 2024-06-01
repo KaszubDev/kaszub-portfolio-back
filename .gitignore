@@ -75,6 +75,7 @@ $RECYCLE.BIN/
 .idea
 nbproject
 .eslintcache
+.tmp
 
 ############################
 # Node.js
@@ -129,12 +130,15 @@ front-workspace.code-workspace
 # Yarn
 ############################
 .pnp.*
+.yarnrc.yml
+.yarn
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+yarn.lock
 
 ############################
 # Playwright
